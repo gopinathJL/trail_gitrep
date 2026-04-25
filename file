@@ -1,0 +1,11 @@
+[1mdiff --git a/test1.txt b/test1.txt[m
+[1mindex e69de29..a513ad6 100644[m
+[1m--- a/test1.txt[m
+[1m+++ b/test1.txt[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m## Create from gitbranch1[m
+[32m+[m[32mCreate a test file in python[m
+\ No newline at end of file[m
+[1mdiff --git a/test2.txt b/test2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
